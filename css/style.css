@@ -1,0 +1,9 @@
+body{
+    background: rgb(1, 0, 13);
+    background: linear-gradient(90deg, rgba(1, 0, 13, 1) 0%, rgba(66, 8, 176, 1) 35%, rgba(14, 0, 52, 1)100%);
+}
+.card-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
